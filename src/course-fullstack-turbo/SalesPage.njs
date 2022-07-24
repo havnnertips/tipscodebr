@@ -33,7 +33,7 @@ class SalesPage extends Nullstack {
            <FacePixelFullStack id="294337825339805" />
         </div>
         <Hero />
-        <Whatsapp linkWhats="https://wa.me/5588997623061?text=Tenho%20duvida%20sobre%20o%20curso%20fullstack%20turbo" />
+        <Whatsapp linkWhats="https://api.whatsapp.com/send?phone=5588981259565&text=Ol%C3%A1%2C%20quero%20saber%20mais%20sobre%20o%20Curso%20Full%20Stack%20Turbo%20" />
         <CourseDetails />
         <WhatLearn />
         <Workshop />
@@ -44,7 +44,7 @@ class SalesPage extends Nullstack {
         <CallToAction />
         <Teacher />
         <Faq classe="bg-tips-dark" />
-        <Contact numWhats="https://wa.me/5588997623061?text=Tenho%20duvida%20sobre%20o%20curso%20fullstack%20turbo" />
+        <Contact numWhats="https://api.whatsapp.com/send?phone=5588981259565&text=Ol%C3%A1%2C%20quero%20saber%20mais%20sobre%20o%20Curso%20Full%20Stack%20Turbo%20" />
          <Footer
           class={
            {

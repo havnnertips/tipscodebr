@@ -36,7 +36,7 @@ class CallToAction extends Nullstack {
           </h3>
 
           <a
-            href="https://pay.hotmart.com/A43229044U?off=u0io32t2&checkoutMode=10"
+            href="https://go.hotmart.com/B73153036D?ap=e624"
             class="mx-auto lg:mx-0 bg-tips-green text-white font-bold rounded-md md:my-6 py-2 md:py-4 px-2 md:px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out"
           >
             Quero ser um desenvolvedor(a) agora
