@@ -30,7 +30,7 @@ class SalesPage extends Nullstack {
     return (
       <div class="bg-tips-dark">
         <div>
-           <FacePixelFullStack id="294337825339805" />
+           <FacePixelFullStack id="804998740502929" />
         </div>
         <Hero />
         <Whatsapp linkWhats="https://api.whatsapp.com/send?phone=5588981259565&text=Ol%C3%A1%2C%20quero%20saber%20mais%20sobre%20o%20Curso%20Full%20Stack%20Turbo%20" />
